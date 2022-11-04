@@ -1,3 +1,4 @@
-## Add your prototype/source code files to this directory. Please don't rename this directory.
+## Ways to run the file
 
-⚠ **Don't forget to modify this README.md file to add instructions to execute/run your source code.**
+run demoWs30.py and press start and begin typing.
+The demo of correct verification is shown in the uploaded video/
