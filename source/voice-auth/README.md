@@ -1,11 +1,14 @@
-# Speaker Recognition API
+# Voice Authentication.
 
-This is a simple demo of the Microsoft Cognitive Services Speaker Recognition APIs:
+This is a Voice Authentication system built using Microsoft Cognitive Services Speaker Recognition APIs.
+Fantastic RecorderJS is used to convert the the raw audio to into the format required by Cognitive Services.
+Steps:
+1. Run the Index.html
+2. Enter the Endpoint and Key provided by Microsoft Azure
+3. Click on Register and Speak to Register and enrol a new user.
+4. Click on verification to verify the enrolled Users.
 
-1. Speaker Verification
-1. Speaker Identification
 
-By using your browser's built-in audio recording capabilities, and a custom version of the fantastic RecorderJS to convert the raw audio into the format required by Cognitive Services, you can easily have a play around with using your voice as a form of verification and also to identify who is talking out of a group of people.
 
-Super cool stuff.
+
 
