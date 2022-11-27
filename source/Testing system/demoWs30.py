@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'C:\Users\Dan Gutchin\Desktop\final_prod\ui\untitled.ui'
-#
+# 
 # Created by: PyQt5 UI code generator 5.15.4
 #
 # WARNING: Any manual changes made to this file will be lost when pyuic5 is
@@ -108,7 +107,7 @@ def on_release(key):
 '''
 Arguments: Count - the number of tuples collected from the user up to this point.
 
-Returns: Predict and prints the probability of a window from count-31 to count to be Dan. 
+Returns: Predict and prints the probability of a window from count-31 to count to be Divya. 
 '''
 def prepareAndSend(count) -> float:
     global dwell
