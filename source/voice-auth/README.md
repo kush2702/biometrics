@@ -1,7 +1,6 @@
 # Voice Authentication.
 
 This is a Voice Authentication system built using Microsoft Cognitive Services Speaker Recognition APIs.
-Fantastic RecorderJS is used to convert the the raw audio to into the format required by Cognitive Services.
 
 Steps:
 1. Enter the Endpoint and Key provided by Microsoft Azure in helper.js 
