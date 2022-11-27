@@ -29,8 +29,8 @@ var thingsToRead = [
 
 
 // Key and Endpoint By Microsoft Azure.
-var key = "9b82f23ff0804b6e8133ad9d903c3efe";
-var baseApi = "https://westus.api.cognitive.microsoft.com/";
+var key = "Your-microsoft-azure-key";
+var baseApi = "your-microsoft-azure-Endpoint";
 
 // Speaker Recognition API profile configuration - constructs to make management easier
 var Profile = class { constructor (name, profileId) { this.name = name; this.profileId = profileId;}};
